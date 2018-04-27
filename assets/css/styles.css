@@ -1,0 +1,92 @@
+.modal-footer .btn{
+  border-radius:15px;
+}
+
+h5 i{
+  float:right;
+}
+
+h5 strong{
+  margin-left:0;
+}
+
+.alert span{
+  font-size:1.5rem;
+}
+
+.text-right{
+  width:50%;
+  float:right;
+  border-radius:15px;
+  margin-right:2em;
+  background-color:#25D366;
+}
+
+.text-left{
+  width:50%;
+  float:left;
+  border-radius:15px;
+  margin-left:2em;
+  background-color:#6859C6;
+}
+
+i{
+  font-size:20px;
+  margin-right:0.5em;
+}
+
+p{
+  font-size:15px;
+  margin-left:4.8em;
+}
+
+strong{
+  font-size:1.8em;
+  margin-left:1em;
+}
+
+.fa{
+  font-size:25px;
+  margin-right:1rem;
+  color:white;
+}
+
+.navbar-default{
+  background-color:#25d366;
+  border-color:#25d366;
+  color:white;
+  font-size:18px;
+}
+
+.navbar{
+  position:relative;
+  min-height:45px;
+  border:1px solid transparent;
+  margin-bottom:0;
+}
+
+.form-group input{
+  width:75%;
+  height:10vh;
+  border:solid rgb(140,139,139) 1px;
+}
+
+.form-group button{
+  float:right;
+  border-radius:15px;
+  background-color:#25D366;
+}
+
+.list-group-items .badge{
+  background-color:rgb(37,211,102);
+  margin-top:2vh;
+}
+
+
+
+
+@media screen and (min-width: 1200px){
+  .form-group input{
+    width: 90%;
+  }
+}
